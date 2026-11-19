@@ -1,0 +1,16 @@
+{
+  "blobs": 19412,
+  "accuracy_5class": 0.979,
+  "macro_f1_5class": 0.9412,
+  "vehicle_accuracy": 0.9818,
+  "vehicle_precision": 0.8182,
+  "vehicle_recall": 0.9693,
+  "vehicle_f1": 0.8874,
+  "counts": {
+    "headlight": 989,
+    "taillight": 446,
+    "streetlight": 554,
+    "reflector": 5063,
+    "noise": 12360
+  }
+}

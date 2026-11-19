@@ -1,0 +1,15 @@
+{
+  "frames": 1200,
+  "glare_frames": 6,
+  "needless_low_frames": 102,
+  "required_low_frames": 394,
+  "compliance_frac": 0.9848,
+  "free_road_frames": 280,
+  "high_on_free_road_frac": 0.6357,
+  "switches": 9,
+  "switch_distance_m": [
+    595.0,
+    587.5
+  ],
+  "ms_per_frame": 14.26
+}

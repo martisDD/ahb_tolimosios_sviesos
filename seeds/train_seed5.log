@@ -1,0 +1,24 @@
+Dėmių: 103247; pasiskirstymas pagal klases: {'headlight': 5741, 'taillight': 2724, 'streetlight': 2622, 'reflector': 23991, 'noise': 68169}
+
+=== RandomForest ===
+              precision    recall  f1-score   support
+
+   headlight      0.894     0.978     0.934      1435
+   taillight      0.765     0.956     0.850       681
+ streetlight      1.000     1.000     1.000       656
+   reflector      0.991     0.945     0.968      5998
+       noise      1.000     0.998     0.999     17042
+
+    accuracy                          0.984     25812
+   macro avg      0.930     0.976     0.950     25812
+weighted avg      0.986     0.984     0.984     25812
+
+Painiavos matrica:
+ [[ 1404    13     0    18     0]
+ [    4   651     0    26     0]
+ [    0     0   656     0     0]
+ [  159   165     0  5671     3]
+ [    3    22     0     7 17010]]
+Transporto priemonės / ne (dvejetainis) F1 = 0.913
+
+Išsaugomas modelis: RandomForest

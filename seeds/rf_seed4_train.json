@@ -1,0 +1,10 @@
+{
+  "n_blobs": 99253,
+  "best": "RandomForest",
+  "results": {
+    "RandomForest": {
+      "macro_f1": 0.9484580351415914,
+      "vehicle_f1": 0.9107531562908141
+    }
+  }
+}

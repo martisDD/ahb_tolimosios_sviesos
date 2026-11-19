@@ -1,0 +1,10 @@
+real/*.mp4
+*_rezultatas.mp4
+palyginimas_*.mp4
+yolo_*.mp4
+__pycache__/
+*.pyc
+synthetic_dataset.npz
+runs/
+seeds/*.joblib
+real/*.npy

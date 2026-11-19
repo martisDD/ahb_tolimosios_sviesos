@@ -1,0 +1,36 @@
+{
+  "duration_s": 115.4,
+  "cars": [
+    {
+      "car": "A",
+      "visible_s": 34.0,
+      "passed_s": 39.6,
+      "detected_after_s": 3.67,
+      "glare_s": 3.67
+    },
+    {
+      "car": "B",
+      "visible_s": 78.0,
+      "passed_s": 86.2,
+      "detected_after_s": null,
+      "glare_s": 8.2
+    },
+    {
+      "car": "C",
+      "visible_s": 90.0,
+      "passed_s": 99.2,
+      "detected_after_s": 8.2,
+      "glare_s": 8.2
+    }
+  ],
+  "glare_total_s": 20.07,
+  "needless_low_s": 0.0,
+  "switches": 4,
+  "high_frac": 0.945,
+  "model": "best_night.onnx",
+  "window_s": 0.3,
+  "vote_ratio": 0.6,
+  "tracking": true,
+  "min_conf": 0.25,
+  "track_conf": 0.15
+}

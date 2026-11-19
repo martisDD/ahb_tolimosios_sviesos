@@ -1,0 +1,22 @@
+{
+  "duration_s": 49.4,
+  "cars": [
+    {
+      "car": "A",
+      "visible_s": 1.2,
+      "passed_s": 10.8,
+      "detected_after_s": 9.14,
+      "glare_s": 9.13
+    }
+  ],
+  "glare_total_s": 9.13,
+  "needless_low_s": 0.0,
+  "switches": 2,
+  "high_frac": 0.95,
+  "model": "best_headlight.onnx",
+  "window_s": 0.3,
+  "vote_ratio": 0.6,
+  "tracking": true,
+  "min_conf": 0.25,
+  "track_conf": 0.15
+}

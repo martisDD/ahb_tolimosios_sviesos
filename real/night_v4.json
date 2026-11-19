@@ -1,0 +1,34 @@
+{
+  "duration_s": 115.4,
+  "cars": [
+    {
+      "car": "A",
+      "visible_s": 34.0,
+      "passed_s": 39.6,
+      "detected_after_s": 1.33,
+      "glare_s": 1.33
+    },
+    {
+      "car": "B",
+      "visible_s": 78.0,
+      "passed_s": 86.2,
+      "detected_after_s": 2.1,
+      "glare_s": 2.1
+    },
+    {
+      "car": "C",
+      "visible_s": 90.0,
+      "passed_s": 99.2,
+      "detected_after_s": 0.53,
+      "glare_s": 0.53
+    }
+  ],
+  "glare_total_s": 3.96,
+  "needless_low_s": 4.97,
+  "switches": 7,
+  "high_frac": 0.746,
+  "model": "blob_classifier_v4.joblib",
+  "window_s": 0.3,
+  "vote_ratio": 0.6,
+  "tracking": true
+}

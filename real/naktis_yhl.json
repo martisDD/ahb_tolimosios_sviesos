@@ -1,0 +1,22 @@
+{
+  "duration_s": 40.2,
+  "cars": [
+    {
+      "car": "priekyje",
+      "visible_s": 0.0,
+      "passed_s": 40.3,
+      "detected_after_s": 26.13,
+      "glare_s": 32.9
+    }
+  ],
+  "glare_total_s": 32.9,
+  "needless_low_s": 0.0,
+  "switches": 4,
+  "high_frac": 0.818,
+  "model": "best_headlight.onnx",
+  "window_s": 0.3,
+  "vote_ratio": 0.6,
+  "tracking": true,
+  "min_conf": 0.25,
+  "track_conf": 0.15
+}

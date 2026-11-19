@@ -1,0 +1,20 @@
+{
+  "duration_s": 40.2,
+  "cars": [
+    {
+      "car": "priekyje",
+      "visible_s": 0.0,
+      "passed_s": 40.3,
+      "detected_after_s": 4.7,
+      "glare_s": 4.7
+    }
+  ],
+  "glare_total_s": 4.7,
+  "needless_low_s": 0.0,
+  "switches": 1,
+  "high_frac": 0.117,
+  "model": "blob_classifier_v5.joblib",
+  "window_s": 0.3,
+  "vote_ratio": 0.6,
+  "tracking": true
+}

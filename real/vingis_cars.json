@@ -1,0 +1,7 @@
+{
+  "video": "vingis.mp4",
+  "note": "Rankiniu būdu pažymėta pagal kadrus. Vienas priešpriešinis automobilis; po jo kelias laisvas, pakelėse balti kelio stulpeliai.",
+  "cars": [
+    {"name": "A", "visible": 1.2, "passed": 10.8}
+  ]
+}

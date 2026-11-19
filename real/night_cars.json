@@ -1,0 +1,9 @@
+{
+  "video": "night.mp4",
+  "note": "Rankiniu būdu pažymėta pagal kadrus: kada priešpriešinis automobilis matomas ir kada prasilenkia (s).",
+  "cars": [
+    {"name": "A", "visible": 34.0, "passed": 39.6},
+    {"name": "B", "visible": 78.0, "passed": 86.2},
+    {"name": "C", "visible": 90.0, "passed": 99.2}
+  ]
+}

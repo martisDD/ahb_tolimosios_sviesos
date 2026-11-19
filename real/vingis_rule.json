@@ -1,0 +1,22 @@
+{
+  "duration_s": 49.4,
+  "cars": [
+    {
+      "car": "A",
+      "visible_s": 1.2,
+      "passed_s": 10.8,
+      "detected_after_s": 0.01,
+      "glare_s": 0.0
+    }
+  ],
+  "glare_total_s": 0.0,
+  "needless_low_s": 37.12,
+  "switches": 1,
+  "high_frac": 0.003,
+  "model": "rule",
+  "window_s": 0.3,
+  "vote_ratio": 0.6,
+  "tracking": true,
+  "min_conf": 0.6,
+  "track_conf": 0.35
+}

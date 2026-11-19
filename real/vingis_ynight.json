@@ -1,0 +1,22 @@
+{
+  "duration_s": 49.4,
+  "cars": [
+    {
+      "car": "A",
+      "visible_s": 1.2,
+      "passed_s": 10.8,
+      "detected_after_s": 0.38,
+      "glare_s": 0.38
+    }
+  ],
+  "glare_total_s": 0.38,
+  "needless_low_s": 29.9,
+  "switches": 3,
+  "high_frac": 0.157,
+  "model": "best_night.onnx",
+  "window_s": 0.3,
+  "vote_ratio": 0.6,
+  "tracking": true,
+  "min_conf": 0.25,
+  "track_conf": 0.15
+}

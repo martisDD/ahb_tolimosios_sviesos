@@ -1,0 +1,34 @@
+{
+  "duration_s": 115.4,
+  "cars": [
+    {
+      "car": "A",
+      "visible_s": 34.0,
+      "passed_s": 39.6,
+      "detected_after_s": 1.3,
+      "glare_s": 1.3
+    },
+    {
+      "car": "B",
+      "visible_s": 78.0,
+      "passed_s": 86.2,
+      "detected_after_s": 1.4,
+      "glare_s": 1.4
+    },
+    {
+      "car": "C",
+      "visible_s": 90.0,
+      "passed_s": 99.2,
+      "detected_after_s": 0.3,
+      "glare_s": 0.3
+    }
+  ],
+  "glare_total_s": 3.0,
+  "needless_low_s": 7.33,
+  "switches": 9,
+  "high_frac": 0.716,
+  "model": "seeds/rf_seed4.joblib",
+  "window_s": 0.3,
+  "vote_ratio": 0.6,
+  "tracking": true
+}

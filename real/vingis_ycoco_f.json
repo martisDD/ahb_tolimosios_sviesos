@@ -1,0 +1,22 @@
+{
+  "duration_s": 49.4,
+  "cars": [
+    {
+      "car": "A",
+      "visible_s": 1.2,
+      "passed_s": 10.8,
+      "detected_after_s": null,
+      "glare_s": 9.59
+    }
+  ],
+  "glare_total_s": 9.59,
+  "needless_low_s": 2.09,
+  "switches": 2,
+  "high_frac": 0.958,
+  "model": "yolo11n.onnx",
+  "window_s": 0.3,
+  "vote_ratio": 0.6,
+  "tracking": true,
+  "min_conf": 0.25,
+  "track_conf": 0.15
+}

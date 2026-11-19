@@ -1,0 +1,7 @@
+{
+  "video": "naktis.mp4",
+  "note": "Rankiniu būdu pažymėta pagal kadrus. Visą įrašą priekyje važiuoja automobilis (KET 95 p. – artimosios visą laiką); snieguotas kelias.",
+  "cars": [
+    {"name": "priekyje", "visible": 0.0, "passed": 40.3}
+  ]
+}
